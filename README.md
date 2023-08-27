@@ -14,7 +14,7 @@ Este conversor de monedas es una aplicación simple que permite convertir entre 
 
 ## Capturas de Pantalla
 
-![Demostración del Conversor de Monedas](/blob/main/Conversor.gif)
+![Demostración del Conversor de Monedas](https://github.com/guimareyb/currency_converter/blob/main/Conversor.gif)
 
 ## Requisitos
 
